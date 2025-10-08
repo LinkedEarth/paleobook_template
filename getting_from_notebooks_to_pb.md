@@ -1,4 +1,4 @@
-Too make sure this PaleoBook will be truly yours (and not this template), check `_config.yml`, `_toc.hml`, and `meta_data/chapter_meta.hml` and make sure that you have changed all fields that should be specific to your PaleoBook (which is most)
+To make sure this PaleoBook will be truly yours (and not this template), check `_config.yml`, `_toc.hml`, and `meta_data/chapter_meta.hml` and make sure that you have changed all fields that should be specific to your PaleoBook (which is most). Once your book builds, and you have modified the said yaml files, we **strongly encourage** you to delete the template notebooks and any extraneous folders.  
 
 1. have an environment in which `jupyter-book` is installed (you can follow the env setup readme in the template repo)
 2. `jupyter-book build .` will build the html in the current directory (it needs to be top level so that it sees all the stuff)
