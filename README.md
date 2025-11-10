@@ -20,6 +20,8 @@ This repository is loosely structured according to a generic analysis pipeline. 
 
 3. Submit a **Gallery Submission** issue via the PaleoBooks repo ([accessible here](https://github.com/LinkedEarth/PaleoBooks/issues)) using the provided template. As an example, these are the relevant inputs for submitting this book to the Gallery:
 
+If this were associated with my personal account (as it likely is with yours), the submission form would look like this: 
+
 - repo_name: paleobook_template
 - repo_url: [`https://github.com/jordanplanders/paleobook_template`](https://github.com/jordanplanders/paleobook_template)
 - host: [`https://jordanplanders.github.io`](https://jordanplanders.github.io)
@@ -28,4 +30,16 @@ This repository is loosely structured according to a generic analysis pipeline. 
 - landingpage_url: [`https://jordanplanders.github.io/paleobook_template/readme.html`](https://jordanplanders.github.io/paleobook_template/readme.html)
 - config_url: [`https://github.com/jordanplanders/paleobook_template/blob/main/_config.yml`](https://github.com/jordanplanders/paleobook_template/blob/main/_config.yml)
 - cookbook_loc: [`https://jordanplanders.github.io/paleobook_template`](https://jordanplanders.github.io/paleobook_template)
+- branch: main
+
+For its actual location on Linked Earth, it out look like this: 
+
+- repo_name: paleobook_template
+- repo_url: [`https://github.com/LinkedEarth/paleobook_template`](https://github.com/LinkedEarth/paleobook_template)
+- host: [`https://linked.earth`](https://linked.earth)
+- user: LinkedEarth
+- landingpage: readme
+- landingpage_url: [`https://linked.earth/paleobook_template/readme.html`](https://linked.earth/paleobook_template/readme.html)
+- config_url: [`https://github.com/LinkedEarth/paleobook_template/blob/main/_config.yml`](https://github.com/LinkedEarth/paleobook_template/blob/main/_config.yml)
+- cookbook_loc: [`https://linked.earth/paleobook_template`](https://linked.earth/paleobook_template)
 - branch: main
