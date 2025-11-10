@@ -27,3 +27,5 @@ To contribute your book to the PaleoBooks Gallery:
 - config_url: [`https://github.com/jordanplanders/paleobook_template/blob/main/_config.yml`](https://github.com/jordanplanders/paleobook_template/blob/main/_config.yml)
 - cookbook_loc: [`https://jordanplanders.github.io/paleobook_template`](https://jordanplanders.github.io/paleobook_template)
 - branch: main
+
+4. Delete this `getting_from_notebooks_to_pb.md` file, and push!
