@@ -2,7 +2,7 @@ To make sure this PaleoBook will be truly yours (and not this template), check `
 
 1. have an environment in which `jupyter-book` is installed (you can follow the env setup readme in the template repo)
 2. `jupyter-book build .` will build the html in the current directory (it needs to be top level so that it sees all the stuff)
-3. open `index.html` in a browser and inspect your work. In addtion to checking your prose and figures, make sure that navigation bar titles are informative and that nothing points to the PaleoBook template instead of your work 
+3. open `index.html` in a browser and inspect your work. In addition to checking your prose and figures, make sure that navigation bar titles are informative and that nothing points to the PaleoBook template instead of your work 
 4. move `_build` to a directory called `docs`
 5. `pip install ghp-import`
 6. follow the instructions for getting a classic token for `you>settings>developer tools` (very bottom menu option). The following categories will suffice: `admin:gpg_key`, `admin:org`, `admin:org_hook`, `admin:public_key`, `admin:repo_hook`, `audit_log`, `repo`, `workflow`
